@@ -5,5 +5,5 @@
 
 
 
-[![Github Stats](https://github.com/FeehGamer/g-stats/blob/master/generated/language.svg)](https://github.com/FeehGamer/g-stats)
+[![Github Stats](https://github.com/FeehGamer/g-stats/blob/master/generated/languages.svg)](https://github.com/FeehGamer/g-stats)
 [![Github Stats](https://github.com/FeehGamer/g-stats/blob/master/generated/overview.svg)](https://github.com/FeehGamer/g-stats)
