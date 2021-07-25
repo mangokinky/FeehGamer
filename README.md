@@ -5,5 +5,5 @@
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeehGamer)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github.com/FeehGamer/g-stats/blob/master/generated/language.svg)](https://github.com/FeehGamer/g-stats)
 [![Github Stats](https://github.com/FeehGamer/g-stats/blob/master/generated/overview.svg)](https://github.com/FeehGamer/g-stats)
