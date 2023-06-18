@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @MangoKinky
-- 👀 I’m interested in ANIME BOOBAS
-- 🌱 I’m currently learning Java, C# and C++
-- 📫 How to reach me patrikzilik3@gmail.com
+- Your typical nobody
+- Java × JavaScript developer
+- Project I'm currently working on: `MysticalRaces`
+- Coding since 2019
+- Website: https://mango-kinky.tk
+- I don't know what I'm doing tbh
 
 
-
+My stats:
 [![Github Stats](https://github.com/mangokinky/g-stats/blob/master/generated/languages.svg)](https://github.com/mangokinky/g-stats)
 [![Github Stats](https://github.com/mangokinky/g-stats/blob/master/generated/overview.svg)](https://github.com/mangokinky/g-stats)
