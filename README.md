@@ -1,8 +1,8 @@
 - Your typical nobody
 - Java × JavaScript developer
-- Project I'm currently working on: `MysticalRaces`
+- Project I'm currently working on: `None, currently fixing shit that is broken`
 - Coding since 2019
-- Website: https://mango-kinky.tk
+- Website: https://mango.mistland.eu
 - I don't know what I'm doing tbh
 
 
